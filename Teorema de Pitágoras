@@ -1,0 +1,12 @@
+
+#Teorema de Pitágoras 
+
+#a**2 + b**2 = c**2
+
+a = float(input("Digite a primeira variável:")) / b = float(input("Digite a segunda variável"))
+
+c_squared = a**2 + b**2
+
+c = c_squared*0.5
+
+print ("O valor da hipotenusa é",c)
